@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Bmi-Test-app",
-    "slug": "Bmi-Test-app",
+    "name": "BmiCalculatorDB",
+    "slug": "BmiCalculatorDB",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
